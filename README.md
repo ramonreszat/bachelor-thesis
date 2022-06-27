@@ -17,7 +17,7 @@ user@home:~$ pip3 install -r requirements.txt
 1. [Dataset of Multi-omics Measurements from Cancer Cells](notebooks/multi-omics.ipynb)
 2. [Dataset of Drug Sensitivity Assays for Anticancer Compounds](notebooks/drug-sensitivity.ipynb)
 3. [Graph-based Data Integration Methods](notebooks/affinity-graphs.ipynb)
-4. [Phenotypic Subtype Discovery by Multi-omics Clustering](notebooks/clustering.ipynb)
+4. [Phenotypic Subtype Discovery by Multi-omics Clustering](notebooks/clusterings.ipynb)
 5. [Drug Sensitivity Screening from Clustering Results](notebooks/biomarkers.ipynb)
 
 ## Datasets
